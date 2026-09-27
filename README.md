@@ -18,12 +18,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
 ```yaml
-name:      Samir (Ahmed Samir Farouk)
-location:  Cairo, Egypt 🇪🇬
-role:      The one-person IT team at Sylndr 🚗  (Egypt's online used-car marketplace)
-scale:     ~180 employees · multi-site · on-prem + cloud
-founder:   QUVit — B2B IT procurement & services 💼
-education: B.Sc. Management Information Systems (2023) 🎓
 certs:     C3SA · CWL · ITIL 4 Foundation (in progress)
 experience: 5+ years in IT
 motto:     "If I do it twice, I automate it." ⚙️
@@ -51,19 +45,6 @@ motto:     "If I do it twice, I automate it." ⚙️
 | 🔐 | **Zero Trust Access** | Tailscale deployment; fixed symmetric-NAT issues with FortiGate Internet Service policies. |
 | 🤖 | **Mobile Automation** | Appium bot for telecom minute transfers, linked to Jira tickets end-to-end. |
 | 🏢 | **Network Builds** | Embassy of Brazil network with VLANs · AOI migration from workgroup to **Active Directory**. |
-
----
-
-## 💼 QUVit — My Company
-
-> B2B IT procurement & services for Egyptian businesses.
-
-- 🧾 White-labeled **ERPNext → "QUVit ERP"** (self-hosted), Arabic RTL quotations
-- 📦 Directory of **110+ Egyptian suppliers** + 8-stage procurement pipeline
-- 📈 **GoHighLevel CRM** builds & automation (SpeakUp Academy, Scholar)
-- 🦷 Odoo ERP project for dental clinics + factory
-
----
 
 ## 🧰 Tech Stack
 
@@ -125,14 +106,6 @@ motto:     "If I do it twice, I automate it." ⚙️
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarouDev&theme=tokyonight" />
 </p>
-
----
-
-## 🌍 Languages I Speak
-
-🇪🇬 Arabic (native) · 🇬🇧 English (professional)
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Open+to+senior+infrastructure+roles+%F0%9F%A4%9D;Let's+build+something+solid+together!" />
